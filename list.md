@@ -54,3 +54,4 @@
 - [中文方言语音识别工具，批量音频转写支持口语断句本地处理](https://github.com/scriptquentinrjw/SoXMjl/commit/8f646013323d3e70342b969cd02ccb9f1edcfae0)
 - [老年认知障碍社区早筛怎么做](https://github.com/scriptquentinrjw/SoXMjl/commit/58e02da08eb548f13e3f207234ea16bddf4e0a61)
 - [人性化时间差格式化开源仓库 完整源码时间间隔友好输出](https://github.com/scriptquentinrjw/SoXMjl/commit/cba4686b8096295aaba500611518e8eb736ef491)
+- [多行日志解析工程 完整源码提取多行日志关键字段](https://github.com/scriptquentinrjw/SoXMjl/commit/b9f5921cb777e88544ed810f237f1078e2403442)
