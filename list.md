@@ -57,3 +57,4 @@
 - [多行日志解析工程 完整源码提取多行日志关键字段](https://github.com/scriptquentinrjw/SoXMjl/commit/b9f5921cb777e88544ed810f237f1078e2403442)
 - [险资权益比例适度放开长线保险资金入市空间打开](https://github.com/scriptquentinrjw/SoXMjl/commit/e86ae8a0ef82b82496f36e4c18aab1710e81d811)
 - [量子安全技术民用，个人信息加密防护升级](https://github.com/scriptquentinrjw/SoXMjl/commit/0e9a1afc9e23680f4cc2f21904e8dbc325601f3a)
+- [RAG向量库升级，向量存储格式不兼容无法迁移](https://github.com/scriptquentinrjw/SoXMjl/commit/bb678a3e26970853b1dfe9506a3582e60adbf1d4)
