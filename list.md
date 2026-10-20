@@ -129,3 +129,4 @@
 - [jsonl按嵌套字段过滤工具，依据嵌套字段筛选jsonl行](https://github.com/scriptquentinrjw/SoXMjl/commit/3ddc7233ce732987b2f8af70d1787a4b4cb87342)
 - [任务状态管理源码 完整源码记录任务启停运行状态](https://github.com/scriptquentinrjw/SoXMjl/commit/0b6b33442a3a7c90bf40d1af473782ebdf44c47e)
 - [github分支批量同步上游脚本，批量同步fork仓库上游分支代码](https://github.com/scriptquentinrjw/SoXMjl/commit/df9ae999d771d533a070bc54496e3a2734281a55)
+- [AI生成IaC基础设施脚本，逻辑漏洞自动检测](https://github.com/scriptquentinrjw/SoXMjl/commit/75b0f67843361961a7c8d8760e30c1c20772f78e)
