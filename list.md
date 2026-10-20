@@ -160,3 +160,4 @@
 - [Markdown文档批量转换html，自定义模板批量渲染网页](https://github.com/scriptquentinrjw/SoXMjl/commit/b5fb5f838104eeaaa7d502d636fb5a2898d10591)
 - [dns dnssec记录批量查询，批量查询域名dnssec解析记录](https://github.com/scriptquentinrjw/SoXMjl/commit/14118194d6b9e8ebb7d3db38e9ca10d0c20936df)
 - [全栈消息队列 Demo 开源资源库 完整工程附带模块快速集成手册](https://github.com/scriptquentinrjw/SoXMjl/commit/0b935c1e3afb831fa26487a372e21e9ad84399f3)
+- [制造业知识图谱构建，设备工艺知识沉淀](https://github.com/scriptquentinrjw/SoXMjl/commit/9886871bc733a11fd8bca864a6315610ccb73617)
