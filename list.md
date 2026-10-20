@@ -82,3 +82,4 @@
 - [Pages自定义域名DNS解析，域名被劫持风险](https://github.com/scriptquentinrjw/SoXMjl/commit/73a373f534f237916a9211aa861b980eca05891e)
 - [网上买药处方药审核监管现实难点](https://github.com/scriptquentinrjw/SoXMjl/commit/91308fa55190b68a90e676c611c97ee82658350b)
 - [老旧小区改造，哪些项目政府出钱哪些居民自筹](https://github.com/scriptquentinrjw/SoXMjl/commit/af43f61b4d54e361918de00ae79eef229d95b4ae)
+- [本地pdf附件批量解压导出，解压pdf内嵌附件保存至目录](https://github.com/scriptquentinrjw/SoXMjl/commit/3a5fe1ec48f06713bf3c75fe19d4bdb7b968c9d3)
