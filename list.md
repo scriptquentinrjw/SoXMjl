@@ -96,3 +96,4 @@
 - [源码文件注释行占比统计，统计每个源码文件注释、空行、有效代码占比](https://github.com/scriptquentinrjw/SoXMjl/commit/c16b7809003c3b52f01b6bfb732b626548078377)
 - [程序员缓存工具开源源码 全套源码支持多系统环境运行](https://github.com/scriptquentinrjw/SoXMjl/commit/11d1befb20ff2ad72e2bcae6b0aadc4aa4e2edc0)
 - [dockerfile静态检查工具，检测dockerfile最佳实践问题](https://github.com/scriptquentinrjw/SoXMjl/commit/3935e8ffaa1699d198ce19caf925ca78761d2d53)
+- [多源配置合并加载工具，支持yaml json环境变量优先级覆盖](https://github.com/scriptquentinrjw/SoXMjl/commit/45fd40a591fa92ec2409f6aea6905aa1dc9e74ac)
