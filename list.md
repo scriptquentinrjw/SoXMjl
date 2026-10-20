@@ -66,3 +66,4 @@
 - [端云协同AI架构，端侧预处理云端深度推理](https://github.com/scriptquentinrjw/SoXMjl/commit/3af60a6d64d9caeef10dd3d15df0e4abd4ed74dd)
 - [简易本地 redis 模拟开源工程 完整源码实现 set get expire 指令](https://github.com/scriptquentinrjw/SoXMjl/commit/46bfe36276917b04627017cf249c316d2bd9216c)
 - [城乡养老待遇差距持续缩小，制度统筹推进](https://github.com/scriptquentinrjw/SoXMjl/commit/c40adda2495a42996fb92c961aa6d4764dec9ed1)
+- [git commit‑gpg签名批量校验，批量校验提交gpg签名有效性](https://github.com/scriptquentinrjw/SoXMjl/commit/96639de4fe0271e628c068b55a835e421e1c603b)
