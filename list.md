@@ -20,3 +20,4 @@
 - [多模型评估平台，自动化评测流水线建设](https://github.com/scriptquentinrjw/SoXMjl/commit/d955db8556b29ccf5af1fe32344f42d27952099a)
 - [日志敏感字段脱敏工程 完整源码自动屏蔽手机号身份证](https://github.com/scriptquentinrjw/SoXMjl/commit/1cdccf04d0cc5779e11242ab30edb5714755717b)
 - [串口设备数据采集工具，读取串口数据存储解析上报](https://github.com/scriptquentinrjw/SoXMjl/commit/d9c58644bf66f22c4ef1971ab2dd2c7f1301a11d)
+- [沉浸式教育兴起，AI赋能课堂教学利弊](https://github.com/scriptquentinrjw/SoXMjl/commit/eeda92a5fffe81fe2f0e2e7c8b6852f23ac43dfc)
