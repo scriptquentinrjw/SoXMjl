@@ -39,3 +39,4 @@
 - [城镇化进入下半场，更加看重城市的宜居与配套](https://github.com/scriptquentinrjw/SoXMjl/commit/bf9bb7bf0109d8d8921fa464c44f81946b748de3)
 - [开源工具使用手册 Markdown 编写百度友好版](https://github.com/scriptquentinrjw/SoXMjl/commit/35ac0cd62a60a936895dd8830800b67a70e88541)
 - [托育机构普惠化推进普通家庭育儿成本能否下降](https://github.com/scriptquentinrjw/SoXMjl/commit/0f9ad1948f374dd47fef72cb322001c51827320d)
+- [低代码练习开源项目 完整源码附带业务适配改造教程](https://github.com/scriptquentinrjw/SoXMjl/commit/a5c1dafd499197d58a57134f953e2e699cf1cbd5)
