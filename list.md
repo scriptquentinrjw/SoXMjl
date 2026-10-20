@@ -165,3 +165,4 @@
 - [程序员开源实战资源 源码开放包含快速接入样例](https://github.com/scriptquentinrjw/SoXMjl/commit/08eeb105299856d550e55d11b3704d4818e29018)
 - [居民储蓄搬家持续上演存款持续向权益类资产转移](https://github.com/scriptquentinrjw/SoXMjl/commit/28a1cb3457f997419fdd7a9f903b7389f366fa82)
 - [本地优先协作软件，多端Agent记忆CRDT冲突](https://github.com/scriptquentinrjw/SoXMjl/commit/d7793636bfdffbdf66279a3b9f85fe6237d4e913)
+- [正则多行匹配内容提取，批量从多文件提取多行匹配内容](https://github.com/scriptquentinrjw/SoXMjl/commit/eb6fba387b995d71e971c5c82dfca76f3311bc43)
