@@ -61,3 +61,4 @@
 - [powershell压缩解压脚本模板，带进度日志的文件压缩解压模板](https://github.com/scriptquentinrjw/SoXMjl/commit/29470aef12c174a0b314a11f418da7ef5d030786)
 - [tls证书信任链构建工具，本地构建证书完整信任链](https://github.com/scriptquentinrjw/SoXMjl/commit/d7b35961292dfb6540fc63db3a87e4a8b27c34cb)
 - [个人征信修复市场整治，虚假征信修复骗局](https://github.com/scriptquentinrjw/SoXMjl/commit/e94c02c19ed592a30c003f9dd6faccc5d039fbac)
+- [指数小幅收红，七成投资者账户依旧亏钱](https://github.com/scriptquentinrjw/SoXMjl/commit/7a55da6426694bb3dfb8526e7516b464d13148a2)
