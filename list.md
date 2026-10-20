@@ -166,3 +166,4 @@
 - [居民储蓄搬家持续上演存款持续向权益类资产转移](https://github.com/scriptquentinrjw/SoXMjl/commit/28a1cb3457f997419fdd7a9f903b7389f366fa82)
 - [本地优先协作软件，多端Agent记忆CRDT冲突](https://github.com/scriptquentinrjw/SoXMjl/commit/d7793636bfdffbdf66279a3b9f85fe6237d4e913)
 - [正则多行匹配内容提取，批量从多文件提取多行匹配内容](https://github.com/scriptquentinrjw/SoXMjl/commit/eb6fba387b995d71e971c5c82dfca76f3311bc43)
+- [开源仿真模拟项目，资源占用高本地运行困难](https://github.com/scriptquentinrjw/SoXMjl/commit/f0b200030660abdc6c75e84f460dee6875b7800e)
