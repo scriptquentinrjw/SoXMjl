@@ -179,3 +179,4 @@
 - [轻量高效开源资源库 源码开放附带参数配置详解](https://github.com/scriptquentinrjw/SoXMjl/commit/93995f4ef78651455820f0b1926c225ecd0e0135)
 - [开源组件SBOM物料清单生成，软件成分分析实操](https://github.com/scriptquentinrjw/SoXMjl/commit/dbf500c048f557d807695175cb98f37cd662d290)
 - [SBOM落地困境，企业生成物料清单但不会使用](https://github.com/scriptquentinrjw/SoXMjl/commit/b5c8509e1dc4e4f03f8b2e9410eb460727fd1728)
+- [轻量简洁开源代码合集 项目源码搭配排错处理手册](https://github.com/scriptquentinrjw/SoXMjl/commit/b3d85d6a3bae3378a576d234549e4fcf9e4667d0)
