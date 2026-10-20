@@ -139,3 +139,4 @@
 - [Cookie 池维护 Demo 完整源码爬虫 cookie 轮换保存](https://github.com/scriptquentinrjw/SoXMjl/commit/148617f2a17853f4779154c8a9b975e63d0276db)
 - [技术实战开源案例仓库 可复用源码与快速集成接入指南](https://github.com/scriptquentinrjw/SoXMjl/commit/ce3717b50cf7dbc4b94b25b312f1b8f23f4aab48)
 - [银行利润有所回暖，存款利率很难重回高位](https://github.com/scriptquentinrjw/SoXMjl/commit/f492c2cfb6aa33eb864e886de9ad7106ae0afc14)
+- [画室学员考勤打卡系统，课时关联出勤统计报表](https://github.com/scriptquentinrjw/SoXMjl/commit/60466ce755a654af01e93b2ae8dfd273469402f2)
