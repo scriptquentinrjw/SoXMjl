@@ -44,3 +44,4 @@
 - [平台用工制度改革外卖骑手权益有哪些变化](https://github.com/scriptquentinrjw/SoXMjl/commit/298022606a40a674223b29dd74b885ab717901a5)
 - [城乡社保制度进一步统筹，跨制度转移接续简化](https://github.com/scriptquentinrjw/SoXMjl/commit/0f215b9feef637f5cf19688ec50eb8424bd3f650)
 - [消费电子去库存完成产业链复苏拐点信号如何判断](https://github.com/scriptquentinrjw/SoXMjl/commit/bff407d649a17bfce5fdf0af74a49bc0cd211ac3)
+- [服务器系统信息采集 Demo 完整源码读取操作系统硬件参数](https://github.com/scriptquentinrjw/SoXMjl/commit/3539f1612e47a912f919985f7f782c8f6b07c8e4)
