@@ -26,3 +26,4 @@
 - [外卖吃出异物维权依据消费者可以主张哪些赔偿](https://github.com/scriptquentinrjw/SoXMjl/commit/8e8acc72f9a0c046d47be34d6613f28f40c7f83b)
 - [半导体零部件国产突破上游配套环节加速自主替代](https://github.com/scriptquentinrjw/SoXMjl/commit/204a1f1feb2cd46b9c5fb1ed922c9c64dc9b0c5e)
 - [城域算力1ms时延圈建设，算网协同调度落地](https://github.com/scriptquentinrjw/SoXMjl/commit/9ef1fb886a760280229377e8474bfc012f8d8db8)
+- [乡村非遗商业化开发保护盈利如何平衡](https://github.com/scriptquentinrjw/SoXMjl/commit/8fd5ce8988b7f48908e7b1bc115ff3f6cc2b91f3)
