@@ -142,3 +142,4 @@
 - [画室学员考勤打卡系统，课时关联出勤统计报表](https://github.com/scriptquentinrjw/SoXMjl/commit/60466ce755a654af01e93b2ae8dfd273469402f2)
 - [本地base85编解码工具，批量base85编码解码二进制数据](https://github.com/scriptquentinrjw/SoXMjl/commit/85d08fee32a515258824ac4a716e11037c8f24e8)
 - [医保全国统筹推进异地就医规则统一](https://github.com/scriptquentinrjw/SoXMjl/commit/e95aa3642dde3749a096e8bfcc643696ce736f9f)
+- [宠物医院连锁扩张宠物医疗行业集中度持续提升](https://github.com/scriptquentinrjw/SoXMjl/commit/61967ff517423a27b07b0c99a46ba54b8d88820d)
