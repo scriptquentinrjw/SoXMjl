@@ -110,3 +110,4 @@
 - [极简日志脚本开源工具合集 完整源码搭配系统集成演示](https://github.com/scriptquentinrjw/SoXMjl/commit/0cf94c4db43d605346d61fda27a585f63f03dcd2)
 - [文旅景区过度商业化，损害游客体验的行业顽疾](https://github.com/scriptquentinrjw/SoXMjl/commit/7b51e89332945dba2c20e42299192cda9d12d033)
 - [家庭食品储存误区科普](https://github.com/scriptquentinrjw/SoXMjl/commit/ad5dd8fc0a12b6d85adf84fcb3f8596e4067cc8d)
+- [项目捐赠基金会，基金会资源分配不均衡](https://github.com/scriptquentinrjw/SoXMjl/commit/205712b4f8f5a044655f69dc9c4b4a7cb92c6e8d)
