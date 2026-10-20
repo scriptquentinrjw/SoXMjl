@@ -193,3 +193,4 @@
 - [券商财富管理考核转向从规模导向转向客户实际收益导向](https://github.com/scriptquentinrjw/SoXMjl/commit/617433839d8983aefd1b700550ff52501b5d5b27)
 - [水电气过户流程买卖房屋租房如何办理过户](https://github.com/scriptquentinrjw/SoXMjl/commit/35bde0f5e365aa462f13ad5962305abdc618bba7)
 - [光子计算原型落地，AI推理场景的性能与成本权衡](https://github.com/scriptquentinrjw/SoXMjl/commit/5112e90477e3bcf17a363ebe45cdbbf0a8b1be08)
+- [存算一体芯片普及，个人终端AI算力成本下探](https://github.com/scriptquentinrjw/SoXMjl/commit/49bd7b5df3432c4a4cce6945bf93776988731ce3)
