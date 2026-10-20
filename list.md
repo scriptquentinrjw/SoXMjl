@@ -162,3 +162,4 @@
 - [全栈消息队列 Demo 开源资源库 完整工程附带模块快速集成手册](https://github.com/scriptquentinrjw/SoXMjl/commit/0b935c1e3afb831fa26487a372e21e9ad84399f3)
 - [制造业知识图谱构建，设备工艺知识沉淀](https://github.com/scriptquentinrjw/SoXMjl/commit/9886871bc733a11fd8bca864a6315610ccb73617)
 - [GitHub仓库Issue自动分配责任人模拟工具](https://github.com/scriptquentinrjw/SoXMjl/commit/03a12af568d6fc4190da7a8d16cfe3acbb12cf72)
+- [程序员开源实战资源 源码开放包含快速接入样例](https://github.com/scriptquentinrjw/SoXMjl/commit/08eeb105299856d550e55d11b3704d4818e29018)
