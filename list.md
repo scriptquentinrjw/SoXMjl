@@ -13,3 +13,4 @@
 - [GitHub仓库Discussions主题批量导出脚本](https://github.com/scriptquentinrjw/SoXMjl/commit/286819392a840a18a582567719cd94a976175713)
 - [券商集体看好后市，行情却迟迟不见起色](https://github.com/scriptquentinrjw/SoXMjl/commit/a0e23a17be24e5185a1761bd3c2cc47b787ebced)
 - [音频批量ir卷积混响处理，加载ir脉冲响应文件批量生成混响效果](https://github.com/scriptquentinrjw/SoXMjl/commit/ec102534cacdbd491dd13babfe97f7fe0baa7dc5)
+- [公用事业调价听证制度如何完善](https://github.com/scriptquentinrjw/SoXMjl/commit/d58aeedcaa9e23448eaf627704445dc09aa9cf7a)
