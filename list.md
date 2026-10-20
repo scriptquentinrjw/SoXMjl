@@ -175,3 +175,4 @@
 - [数据标注自动化，AI辅助标注质量管控手段](https://github.com/scriptquentinrjw/SoXMjl/commit/89c0086a8dd4ed29bc46dd99604bc674b0edda0c)
 - [商用车行业复苏信号重卡销量回升产业链景气回暖](https://github.com/scriptquentinrjw/SoXMjl/commit/e04e2557cab518504a385dd18713258616cdfb4f)
 - [外贸开拓新兴市场，需要适应当地市场规则](https://github.com/scriptquentinrjw/SoXMjl/commit/f8c059f2738a2488d93293713b7cd22381ed790f)
+- [中文开源技术项目提高百度页面收录数量](https://github.com/scriptquentinrjw/SoXMjl/commit/9e74a2fc32ce9f88181b8f1f07faaae5033c72ac)
