@@ -86,3 +86,4 @@
 - [石材行业绿色改造升级建材行业环保化持续推进](https://github.com/scriptquentinrjw/SoXMjl/commit/e8399290107d3dbec69114a39c0041e8644912b1)
 - [请求失败统计熔断开源仓库 完整源码统计错误触发熔断](https://github.com/scriptquentinrjw/SoXMjl/commit/45cc0522fc6515324a77dd1c2ace16f46e6fff7d)
 - [种粮补贴发放如何杜绝冒领现象](https://github.com/scriptquentinrjw/SoXMjl/commit/1e258629500f0695714fc7e6bb5174ed6bd684f0)
+- [全栈开源实践项目 可运行源码以及环境配置手册](https://github.com/scriptquentinrjw/SoXMjl/commit/0cd207ca51394686f6d87d60584d52dfc6adb80e)
