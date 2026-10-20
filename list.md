@@ -126,3 +126,4 @@
 - [开源仓库文档每个章节有简短开篇介绍](https://github.com/scriptquentinrjw/SoXMjl/commit/8e1d8448230cfbec0796697d6d54b047e03c0ae3)
 - [容器运行时AI负载异常监控，内存行为告警](https://github.com/scriptquentinrjw/SoXMjl/commit/b1e017b546ab607e5bd683dffdc800454b751e99)
 - [Redis RDB 快照简易读取源码 完整源码解析 rdb 文件内容](https://github.com/scriptquentinrjw/SoXMjl/commit/54f2110f67b3d012cbe2354775e114d2dba05bea)
+- [jsonl按嵌套字段过滤工具，依据嵌套字段筛选jsonl行](https://github.com/scriptquentinrjw/SoXMjl/commit/3ddc7233ce732987b2f8af70d1787a4b4cb87342)
