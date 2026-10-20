@@ -16,3 +16,4 @@
 - [公用事业调价听证制度如何完善](https://github.com/scriptquentinrjw/SoXMjl/commit/d58aeedcaa9e23448eaf627704445dc09aa9cf7a)
 - [开源代码案例库 拿来即用源码与入门使用指南](https://github.com/scriptquentinrjw/SoXMjl/commit/df054d57aacffc86183c54fe900e3cb0758ce300)
 - [文本停用词过滤工具，批量过滤中文文本停用词汇](https://github.com/scriptquentinrjw/SoXMjl/commit/8d230ba1eb665a2286a0f337d63d0a98cbead753)
+- [git commit message不规范，大量无意义提交信息](https://github.com/scriptquentinrjw/SoXMjl/commit/0cd372d394188b9f40074eae3595a3449cd47d3e)
