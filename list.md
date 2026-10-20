@@ -149,3 +149,4 @@
 - [会议纪要辅助生成工具，音频转录提取要点输出纪要文档](https://github.com/scriptquentinrjw/SoXMjl/commit/da4ae0a0d615ae5f44442ecc42d609f3885c9933)
 - [SaaS使用AGPL代码，不对外分发是否触发协议](https://github.com/scriptquentinrjw/SoXMjl/commit/d1c271ca84e90d23bb94adae8287661bf2fd1c3a)
 - [GitHub仓库PR变更文件行数统计工具](https://github.com/scriptquentinrjw/SoXMjl/commit/5545d4792e21377071848c26292898f82316c2b5)
+- [GitHub仓库Webhook批量备份配置工具](https://github.com/scriptquentinrjw/SoXMjl/commit/21d68179f5c9946a6af7504cbb373ec36f8b7b98)
