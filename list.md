@@ -151,3 +151,4 @@
 - [GitHub仓库PR变更文件行数统计工具](https://github.com/scriptquentinrjw/SoXMjl/commit/5545d4792e21377071848c26292898f82316c2b5)
 - [GitHub仓库Webhook批量备份配置工具](https://github.com/scriptquentinrjw/SoXMjl/commit/21d68179f5c9946a6af7504cbb373ec36f8b7b98)
 - [jwt令牌解析校验工具，批量解析jwt验证签名有效期信息](https://github.com/scriptquentinrjw/SoXMjl/commit/e3d9cdbf0cd7b7003df4803544f79d87165fa48d)
+- [物业收费涨价纠纷如何高效化解](https://github.com/scriptquentinrjw/SoXMjl/commit/ab51cdc12741c9a39f13126e6e00245c1f60f216)
