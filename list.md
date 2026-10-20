@@ -55,3 +55,4 @@
 - [老年认知障碍社区早筛怎么做](https://github.com/scriptquentinrjw/SoXMjl/commit/58e02da08eb548f13e3f207234ea16bddf4e0a61)
 - [人性化时间差格式化开源仓库 完整源码时间间隔友好输出](https://github.com/scriptquentinrjw/SoXMjl/commit/cba4686b8096295aaba500611518e8eb736ef491)
 - [多行日志解析工程 完整源码提取多行日志关键字段](https://github.com/scriptquentinrjw/SoXMjl/commit/b9f5921cb777e88544ed810f237f1078e2403442)
+- [险资权益比例适度放开长线保险资金入市空间打开](https://github.com/scriptquentinrjw/SoXMjl/commit/e86ae8a0ef82b82496f36e4c18aab1710e81d811)
