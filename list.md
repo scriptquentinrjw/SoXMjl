@@ -141,3 +141,4 @@
 - [银行利润有所回暖，存款利率很难重回高位](https://github.com/scriptquentinrjw/SoXMjl/commit/f492c2cfb6aa33eb864e886de9ad7106ae0afc14)
 - [画室学员考勤打卡系统，课时关联出勤统计报表](https://github.com/scriptquentinrjw/SoXMjl/commit/60466ce755a654af01e93b2ae8dfd273469402f2)
 - [本地base85编解码工具，批量base85编码解码二进制数据](https://github.com/scriptquentinrjw/SoXMjl/commit/85d08fee32a515258824ac4a716e11037c8f24e8)
+- [医保全国统筹推进异地就医规则统一](https://github.com/scriptquentinrjw/SoXMjl/commit/e95aa3642dde3749a096e8bfcc643696ce736f9f)
