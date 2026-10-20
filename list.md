@@ -185,3 +185,4 @@
 - [城市产业布局，兼顾经济效益与民生就业](https://github.com/scriptquentinrjw/SoXMjl/commit/d35ed368e589ffbfb578b0826ced2975673223c6)
 - [YAML JSON 互转开源源码 完整源码多种配置格式互转](https://github.com/scriptquentinrjw/SoXMjl/commit/0f20e2ddc705c686edfd23156618125625020a0b)
 - [面向开发者开源实战资源库 全套源码含样例工程与说明](https://github.com/scriptquentinrjw/SoXMjl/commit/5d44a06177e9a68b2ddd1a7b2053ecc0f65f1d4d)
+- [大模型训练数据集版权合规审查流程](https://github.com/scriptquentinrjw/SoXMjl/commit/fa2a24fb4b39cfee49d6247ab30a6167a2c95ff0)
