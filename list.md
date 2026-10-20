@@ -152,3 +152,4 @@
 - [GitHub仓库Webhook批量备份配置工具](https://github.com/scriptquentinrjw/SoXMjl/commit/21d68179f5c9946a6af7504cbb373ec36f8b7b98)
 - [jwt令牌解析校验工具，批量解析jwt验证签名有效期信息](https://github.com/scriptquentinrjw/SoXMjl/commit/e3d9cdbf0cd7b7003df4803544f79d87165fa48d)
 - [物业收费涨价纠纷如何高效化解](https://github.com/scriptquentinrjw/SoXMjl/commit/ab51cdc12741c9a39f13126e6e00245c1f60f216)
+- [导出导入 Excel 工具开源工程 完整源码实现表格读写导出能力](https://github.com/scriptquentinrjw/SoXMjl/commit/863cc2e3f68ffd34e7747bde4b7ca0e4e4720324)
