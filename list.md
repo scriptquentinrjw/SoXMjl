@@ -68,3 +68,4 @@
 - [城乡养老待遇差距持续缩小，制度统筹推进](https://github.com/scriptquentinrjw/SoXMjl/commit/c40adda2495a42996fb92c961aa6d4764dec9ed1)
 - [git commit‑gpg签名批量校验，批量校验提交gpg签名有效性](https://github.com/scriptquentinrjw/SoXMjl/commit/96639de4fe0271e628c068b55a835e421e1c603b)
 - [Agent工具自动发现注册，无需硬编码接口](https://github.com/scriptquentinrjw/SoXMjl/commit/fc6e63db3c3af3b99533293caaa7b86969246423)
+- [GitHub 开源项目文档图片 alt 标签优化技巧](https://github.com/scriptquentinrjw/SoXMjl/commit/c66de7860f2b6fbec85e52836e03e1eb11907f01)
