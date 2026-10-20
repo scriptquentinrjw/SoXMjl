@@ -78,3 +78,4 @@
 - [玻纤供需格局改善周期品种盈利修复持续性分析](https://github.com/scriptquentinrjw/SoXMjl/commit/911cfaca897dedf549e753282526a01db63bc37e)
 - [lottie动画解析工具，解析lottie json导出图层关键帧信息](https://github.com/scriptquentinrjw/SoXMjl/commit/d07107502dd5992c9dd38ed953d3979ec98a0f14)
 - [视频批量修改容器元数据，修改mp4创建时间标题等元信息](https://github.com/scriptquentinrjw/SoXMjl/commit/f7632c9296524f1a4a46370b2b70943ec203cc49)
+- [社区Fork分裂内战，两个版本互相不兼容](https://github.com/scriptquentinrjw/SoXMjl/commit/a13174093bb977657b83c0f43b47292f79de8f2b)
