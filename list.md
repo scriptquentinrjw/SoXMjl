@@ -181,3 +181,4 @@
 - [SBOM落地困境，企业生成物料清单但不会使用](https://github.com/scriptquentinrjw/SoXMjl/commit/b5c8509e1dc4e4f03f8b2e9410eb460727fd1728)
 - [轻量简洁开源代码合集 项目源码搭配排错处理手册](https://github.com/scriptquentinrjw/SoXMjl/commit/b3d85d6a3bae3378a576d234549e4fcf9e4667d0)
 - [GitHub仓库PR rebase合并预检查脚本](https://github.com/scriptquentinrjw/SoXMjl/commit/8092c9315902f1e2bb92cdd9252392d093b6c096)
+- [全局异常捕获处理开源仓库 完整源码统一捕获未处理异常](https://github.com/scriptquentinrjw/SoXMjl/commit/50dc0c62b72c2ed814a503496e4e0e67d83cc161)
