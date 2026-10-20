@@ -121,3 +121,4 @@
 - [明明买的稳健理财，账户依旧出现亏损](https://github.com/scriptquentinrjw/SoXMjl/commit/5c9c685b09b027b1f296da9048fa30ae2a909326)
 - [开源 README 文档写清楚项目的安装前置依赖](https://github.com/scriptquentinrjw/SoXMjl/commit/7ef733c9c457bae4d1812926f4936c694b276614)
 - [甲醇燃料船舶订单快速增长，绿色航运赛道迎来发展机遇](https://github.com/scriptquentinrjw/SoXMjl/commit/8623f9b22675cd291aeb75276f0c5ff98cd42256)
+- [借条有效期多久借钱之后多久之内要主张权利](https://github.com/scriptquentinrjw/SoXMjl/commit/fab5421dccb19ad04d1da0c37d967621fc48d8cb)
