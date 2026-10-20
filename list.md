@@ -37,3 +37,4 @@
 - [知识库文档版本追溯，召回历史过期信息防护](https://github.com/scriptquentinrjw/SoXMjl/commit/67947088fb8c5c940e96bf41bedd5fb1bef08b44)
 - [技术实战开源项目分享 完整源码搭配环境排错文档](https://github.com/scriptquentinrjw/SoXMjl/commit/47c23748e80c1d24c51776dd4a95165ca2de5970)
 - [城镇化进入下半场，更加看重城市的宜居与配套](https://github.com/scriptquentinrjw/SoXMjl/commit/bf9bb7bf0109d8d8921fa464c44f81946b748de3)
+- [开源工具使用手册 Markdown 编写百度友好版](https://github.com/scriptquentinrjw/SoXMjl/commit/35ac0cd62a60a936895dd8830800b67a70e88541)
