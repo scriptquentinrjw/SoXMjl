@@ -180,3 +180,4 @@
 - [开源组件SBOM物料清单生成，软件成分分析实操](https://github.com/scriptquentinrjw/SoXMjl/commit/dbf500c048f557d807695175cb98f37cd662d290)
 - [SBOM落地困境，企业生成物料清单但不会使用](https://github.com/scriptquentinrjw/SoXMjl/commit/b5c8509e1dc4e4f03f8b2e9410eb460727fd1728)
 - [轻量简洁开源代码合集 项目源码搭配排错处理手册](https://github.com/scriptquentinrjw/SoXMjl/commit/b3d85d6a3bae3378a576d234549e4fcf9e4667d0)
+- [GitHub仓库PR rebase合并预检查脚本](https://github.com/scriptquentinrjw/SoXMjl/commit/8092c9315902f1e2bb92cdd9252392d093b6c096)
