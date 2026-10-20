@@ -8,3 +8,4 @@
 - [AI辅助心理诊疗，线上心理咨询质量管控](https://github.com/scriptquentinrjw/SoXMjl/commit/5712aa1ed7014a67c6129de3fc97e512ae339db5)
 - [文本分词简易处理开源源码 完整源码完成简单文本分词操作](https://github.com/scriptquentinrjw/SoXMjl/commit/14f65f87a4ddcdba333dd8e616a729ad5aca8bf4)
 - [VisionOS原生应用开发，空间3D界面工程实践](https://github.com/scriptquentinrjw/SoXMjl/commit/850f0778fd0bed70e3972042d342ac1843d23ef8)
+- [音频文件元信息读取源码 完整源码读取音频时长标签信息](https://github.com/scriptquentinrjw/SoXMjl/commit/87afd7c990326ad90817d845392279dcfb048fe3)
