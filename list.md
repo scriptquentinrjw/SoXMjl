@@ -159,3 +159,4 @@
 - [后端工具集合开源项目 完整源码附带简易压力测试参考样例](https://github.com/scriptquentinrjw/SoXMjl/commit/2722d4f248f9522b7e55a088cdaa3ffce867443e)
 - [Markdown文档批量转换html，自定义模板批量渲染网页](https://github.com/scriptquentinrjw/SoXMjl/commit/b5fb5f838104eeaaa7d502d636fb5a2898d10591)
 - [dns dnssec记录批量查询，批量查询域名dnssec解析记录](https://github.com/scriptquentinrjw/SoXMjl/commit/14118194d6b9e8ebb7d3db38e9ca10d0c20936df)
+- [全栈消息队列 Demo 开源资源库 完整工程附带模块快速集成手册](https://github.com/scriptquentinrjw/SoXMjl/commit/0b935c1e3afb831fa26487a372e21e9ad84399f3)
