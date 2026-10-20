@@ -22,3 +22,4 @@
 - [串口设备数据采集工具，读取串口数据存储解析上报](https://github.com/scriptquentinrjw/SoXMjl/commit/d9c58644bf66f22c4ef1971ab2dd2c7f1301a11d)
 - [沉浸式教育兴起，AI赋能课堂教学利弊](https://github.com/scriptquentinrjw/SoXMjl/commit/eeda92a5fffe81fe2f0e2e7c8b6852f23ac43dfc)
 - [产业链配套完善度，决定一个地区制造业的竞争力](https://github.com/scriptquentinrjw/SoXMjl/commit/e1342c3a3a776414011843bac2468ca7e4ba88d4)
+- [未成年人短视频分级，青少年网络内容管控](https://github.com/scriptquentinrjw/SoXMjl/commit/6f8ec688b523dd09c5dd2e720c56459586e77091)
