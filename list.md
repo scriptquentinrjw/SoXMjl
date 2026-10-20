@@ -85,3 +85,4 @@
 - [本地pdf附件批量解压导出，解压pdf内嵌附件保存至目录](https://github.com/scriptquentinrjw/SoXMjl/commit/3a5fe1ec48f06713bf3c75fe19d4bdb7b968c9d3)
 - [石材行业绿色改造升级建材行业环保化持续推进](https://github.com/scriptquentinrjw/SoXMjl/commit/e8399290107d3dbec69114a39c0041e8644912b1)
 - [请求失败统计熔断开源仓库 完整源码统计错误触发熔断](https://github.com/scriptquentinrjw/SoXMjl/commit/45cc0522fc6515324a77dd1c2ace16f46e6fff7d)
+- [种粮补贴发放如何杜绝冒领现象](https://github.com/scriptquentinrjw/SoXMjl/commit/1e258629500f0695714fc7e6bb5174ed6bd684f0)
