@@ -71,3 +71,4 @@
 - [GitHub 开源项目文档图片 alt 标签优化技巧](https://github.com/scriptquentinrjw/SoXMjl/commit/c66de7860f2b6fbec85e52836e03e1eb11907f01)
 - [GitHub 仓库图片链接失效对 SEO 的负面影响](https://github.com/scriptquentinrjw/SoXMjl/commit/a1e4d3100a6ab666fd350bf22f04722a9239b1c3)
 - [指数微微上涨，大半散户账户还在亏损](https://github.com/scriptquentinrjw/SoXMjl/commit/1a482024f5a3338213010e4ebc5430a23fe49dc0)
+- [中医药现代化给百姓带来什么](https://github.com/scriptquentinrjw/SoXMjl/commit/ac5085f3b8810d8cb819bde68f1860be3db3165c)
