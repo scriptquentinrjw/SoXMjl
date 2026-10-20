@@ -93,3 +93,4 @@
 - [耕地不能用来建房，违规占用耕地会有什么后果](https://github.com/scriptquentinrjw/SoXMjl/commit/5788660363c602b4ccca26d5f7d35cfddf4cb1c9)
 - [docker 环境配置适配开源仓库 完整源码容器环境配置兼容](https://github.com/scriptquentinrjw/SoXMjl/commit/6584b3b5a8bfcc6da16a6a45db055e1563e5b66b)
 - [递归遍历目录开源工程 完整源码递归扫描多级目录文件](https://github.com/scriptquentinrjw/SoXMjl/commit/e631cd8f7e068d2abc2f814b44701879caf2b157)
+- [源码文件注释行占比统计，统计每个源码文件注释、空行、有效代码占比](https://github.com/scriptquentinrjw/SoXMjl/commit/c16b7809003c3b52f01b6bfb732b626548078377)
