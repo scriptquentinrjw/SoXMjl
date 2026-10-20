@@ -199,3 +199,4 @@
 - [银行理财产品净值波动亏钱之后该如何理性应对](https://github.com/scriptquentinrjw/SoXMjl/commit/eb07e1951afc9fe6a29757b808651bb3f186a25a)
 - [srt字幕时间轴偏移微调，毫秒级批量偏移字幕时间](https://github.com/scriptquentinrjw/SoXMjl/commit/80904aaf0ecae28560b537c69c234bf1584441ce)
 - [LRU 缓存手写工程 完整源码 LRU 缓存淘汰完整实现](https://github.com/scriptquentinrjw/SoXMjl/commit/45dfa10b72f5a9272307d9fe942a5732d0e322cd)
+- [dns ns记录批量查询，批量查询域名ns服务器解析记录](https://github.com/scriptquentinrjw/SoXMjl/commit/ecbc168af419ba7304b210c2ecc00adbc4fb8e02)
