@@ -18,3 +18,4 @@
 - [文本停用词过滤工具，批量过滤中文文本停用词汇](https://github.com/scriptquentinrjw/SoXMjl/commit/8d230ba1eb665a2286a0f337d63d0a98cbead753)
 - [git commit message不规范，大量无意义提交信息](https://github.com/scriptquentinrjw/SoXMjl/commit/0cd372d394188b9f40074eae3595a3449cd47d3e)
 - [多模型评估平台，自动化评测流水线建设](https://github.com/scriptquentinrjw/SoXMjl/commit/d955db8556b29ccf5af1fe32344f42d27952099a)
+- [日志敏感字段脱敏工程 完整源码自动屏蔽手机号身份证](https://github.com/scriptquentinrjw/SoXMjl/commit/1cdccf04d0cc5779e11242ab30edb5714755717b)
