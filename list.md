@@ -178,3 +178,4 @@
 - [中文开源技术项目提高百度页面收录数量](https://github.com/scriptquentinrjw/SoXMjl/commit/9e74a2fc32ce9f88181b8f1f07faaae5033c72ac)
 - [轻量高效开源资源库 源码开放附带参数配置详解](https://github.com/scriptquentinrjw/SoXMjl/commit/93995f4ef78651455820f0b1926c225ecd0e0135)
 - [开源组件SBOM物料清单生成，软件成分分析实操](https://github.com/scriptquentinrjw/SoXMjl/commit/dbf500c048f557d807695175cb98f37cd662d290)
+- [SBOM落地困境，企业生成物料清单但不会使用](https://github.com/scriptquentinrjw/SoXMjl/commit/b5c8509e1dc4e4f03f8b2e9410eb460727fd1728)
