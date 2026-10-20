@@ -6,3 +6,4 @@
 - [Demo演示项目直接上生产，缺少错误处理逻辑](https://github.com/scriptquentinrjw/SoXMjl/commit/e88aac629a3361a8f42681e70f1bb3243058ebef)
 - [轻量网页爬虫 Demo 完整源码网页请求解析内容提取](https://github.com/scriptquentinrjw/SoXMjl/commit/9abc5beb7abf7ace52c871bca87fe2283d42b1a8)
 - [AI辅助心理诊疗，线上心理咨询质量管控](https://github.com/scriptquentinrjw/SoXMjl/commit/5712aa1ed7014a67c6129de3fc97e512ae339db5)
+- [文本分词简易处理开源源码 完整源码完成简单文本分词操作](https://github.com/scriptquentinrjw/SoXMjl/commit/14f65f87a4ddcdba333dd8e616a729ad5aca8bf4)
