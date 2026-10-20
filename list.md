@@ -34,3 +34,4 @@
 - [GitHub 公开仓库如何减少爬虫抓取无效资源文件](https://github.com/scriptquentinrjw/SoXMjl/commit/d17dd7af69a49ab41ba46e829efc90d67d0de888)
 - [高质量代码开源仓库 项目源码附带排错实操指南](https://github.com/scriptquentinrjw/SoXMjl/commit/d46e7a25ac2e79876f7f3185136a73e854729bfd)
 - [商业航天备受追捧，烧钱周期远未结束](https://github.com/scriptquentinrjw/SoXMjl/commit/ed3e197c883d6896918b7e601462fdd42b5dd55a)
+- [知识库文档版本追溯，召回历史过期信息防护](https://github.com/scriptquentinrjw/SoXMjl/commit/67947088fb8c5c940e96bf41bedd5fb1bef08b44)
