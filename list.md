@@ -76,3 +76,4 @@
 - [严禁升学率考核教师政策落地难点](https://github.com/scriptquentinrjw/SoXMjl/commit/8a079d251600d56b1236c041007b4e2b2344f29f)
 - [GitHub仓库Project看板卡片批量导出工具](https://github.com/scriptquentinrjw/SoXMjl/commit/b3fbe9da4f1a9461d030e64bff494b929b01cc57)
 - [玻纤供需格局改善周期品种盈利修复持续性分析](https://github.com/scriptquentinrjw/SoXMjl/commit/911cfaca897dedf549e753282526a01db63bc37e)
+- [lottie动画解析工具，解析lottie json导出图层关键帧信息](https://github.com/scriptquentinrjw/SoXMjl/commit/d07107502dd5992c9dd38ed953d3979ec98a0f14)
