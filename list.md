@@ -74,3 +74,4 @@
 - [中医药现代化给百姓带来什么](https://github.com/scriptquentinrjw/SoXMjl/commit/ac5085f3b8810d8cb819bde68f1860be3db3165c)
 - [数字永生概念落地，数字人格留存伦理争议](https://github.com/scriptquentinrjw/SoXMjl/commit/13cf9a325d64f68ce25fdca2135fdbbebb63b84a)
 - [严禁升学率考核教师政策落地难点](https://github.com/scriptquentinrjw/SoXMjl/commit/8a079d251600d56b1236c041007b4e2b2344f29f)
+- [GitHub仓库Project看板卡片批量导出工具](https://github.com/scriptquentinrjw/SoXMjl/commit/b3fbe9da4f1a9461d030e64bff494b929b01cc57)
