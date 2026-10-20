@@ -97,3 +97,4 @@
 - [程序员缓存工具开源源码 全套源码支持多系统环境运行](https://github.com/scriptquentinrjw/SoXMjl/commit/11d1befb20ff2ad72e2bcae6b0aadc4aa4e2edc0)
 - [dockerfile静态检查工具，检测dockerfile最佳实践问题](https://github.com/scriptquentinrjw/SoXMjl/commit/3935e8ffaa1699d198ce19caf925ca78761d2d53)
 - [多源配置合并加载工具，支持yaml json环境变量优先级覆盖](https://github.com/scriptquentinrjw/SoXMjl/commit/45fd40a591fa92ec2409f6aea6905aa1dc9e74ac)
+- [AI时代技术考核，不再以代码行数作为评判标准](https://github.com/scriptquentinrjw/SoXMjl/commit/903ee7ec3f170066fa2aec01e6f74770eb0b1995)
