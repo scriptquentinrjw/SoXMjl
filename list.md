@@ -154,3 +154,4 @@
 - [物业收费涨价纠纷如何高效化解](https://github.com/scriptquentinrjw/SoXMjl/commit/ab51cdc12741c9a39f13126e6e00245c1f60f216)
 - [导出导入 Excel 工具开源工程 完整源码实现表格读写导出能力](https://github.com/scriptquentinrjw/SoXMjl/commit/863cc2e3f68ffd34e7747bde4b7ca0e4e4720324)
 - [面向运维工程师开源资源 完整实现附带本地踩坑处理文档](https://github.com/scriptquentinrjw/SoXMjl/commit/b10c29158102498e36f5938f855d288680d1f1da)
+- [推理侧动态KV‑Cache分片，多实例共享缓存](https://github.com/scriptquentinrjw/SoXMjl/commit/cc7e696cc0edb927e287cb2f62b846ce9dd3ed54)
