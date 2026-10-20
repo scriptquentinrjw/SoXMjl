@@ -137,3 +137,4 @@
 - [TEE机密计算运行Agent，内存提示词防窃取](https://github.com/scriptquentinrjw/SoXMjl/commit/60ea7c73120a037d9fde33fffe4e904f84c21869)
 - [程序员简易实用开源仓库 开放源码包含功能演示样例](https://github.com/scriptquentinrjw/SoXMjl/commit/e04a19ecf1cc068b64109c64e1fc7bf019069295)
 - [Cookie 池维护 Demo 完整源码爬虫 cookie 轮换保存](https://github.com/scriptquentinrjw/SoXMjl/commit/148617f2a17853f4779154c8a9b975e63d0276db)
+- [技术实战开源案例仓库 可复用源码与快速集成接入指南](https://github.com/scriptquentinrjw/SoXMjl/commit/ce3717b50cf7dbc4b94b25b312f1b8f23f4aab48)
