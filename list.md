@@ -32,3 +32,4 @@
 - [开源项目不提供二进制，强制用户本地编译](https://github.com/scriptquentinrjw/SoXMjl/commit/507b9e8cbd64bf7ec2818a8120f2dd9f2d2c6798)
 - [瓶装饮料新品内卷饮料企业比拼健康化产品创新](https://github.com/scriptquentinrjw/SoXMjl/commit/991b8e63a1508ded6c768e622da8a5d8da225a27)
 - [GitHub 公开仓库如何减少爬虫抓取无效资源文件](https://github.com/scriptquentinrjw/SoXMjl/commit/d17dd7af69a49ab41ba46e829efc90d67d0de888)
+- [高质量代码开源仓库 项目源码附带排错实操指南](https://github.com/scriptquentinrjw/SoXMjl/commit/d46e7a25ac2e79876f7f3185136a73e854729bfd)
