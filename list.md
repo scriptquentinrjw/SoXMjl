@@ -168,3 +168,4 @@
 - [正则多行匹配内容提取，批量从多文件提取多行匹配内容](https://github.com/scriptquentinrjw/SoXMjl/commit/eb6fba387b995d71e971c5c82dfca76f3311bc43)
 - [开源仿真模拟项目，资源占用高本地运行困难](https://github.com/scriptquentinrjw/SoXMjl/commit/f0b200030660abdc6c75e84f460dee6875b7800e)
 - [纸浆价格震荡下行造纸企业成本压力迎来缓解窗口](https://github.com/scriptquentinrjw/SoXMjl/commit/f76a66ed4c4aed7ca6bc6622678dba46202909e4)
+- [随机负载均衡 Demo 完整源码随机选择服务实例](https://github.com/scriptquentinrjw/SoXMjl/commit/facfb0c845cf919e6f211c67cab003a1d3f8cc01)
