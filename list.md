@@ -122,3 +122,4 @@
 - [开源 README 文档写清楚项目的安装前置依赖](https://github.com/scriptquentinrjw/SoXMjl/commit/7ef733c9c457bae4d1812926f4936c694b276614)
 - [甲醇燃料船舶订单快速增长，绿色航运赛道迎来发展机遇](https://github.com/scriptquentinrjw/SoXMjl/commit/8623f9b22675cd291aeb75276f0c5ff98cd42256)
 - [借条有效期多久借钱之后多久之内要主张权利](https://github.com/scriptquentinrjw/SoXMjl/commit/fab5421dccb19ad04d1da0c37d967621fc48d8cb)
+- [照搬网上资产配置模板，越调整亏损越扩大](https://github.com/scriptquentinrjw/SoXMjl/commit/691810f87510724eb465c41b5478c9adee2fad5c)
