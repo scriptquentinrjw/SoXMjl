@@ -196,3 +196,4 @@
 - [存算一体芯片普及，个人终端AI算力成本下探](https://github.com/scriptquentinrjw/SoXMjl/commit/49bd7b5df3432c4a4cce6945bf93776988731ce3)
 - [开箱即用数据库模拟开源脚本 完整源码搭配查询调用演示](https://github.com/scriptquentinrjw/SoXMjl/commit/2676d074b8e7f753439b1e525e541ae98cf0c9e9)
 - [大盘勉强收红，多数投资者账户依旧亏损](https://github.com/scriptquentinrjw/SoXMjl/commit/06eac65e10290f9909a4778bb4835c85c8ce77bf)
+- [银行理财产品净值波动亏钱之后该如何理性应对](https://github.com/scriptquentinrjw/SoXMjl/commit/eb07e1951afc9fe6a29757b808651bb3f186a25a)
