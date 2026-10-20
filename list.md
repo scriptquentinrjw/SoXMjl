@@ -48,3 +48,4 @@
 - [PR触发Workflow，fork提交泄露测试数据风险](https://github.com/scriptquentinrjw/SoXMjl/commit/c81fa950d619f37c971146793fe222a97c014c59)
 - [令牌桶限流练手开源工程 完整源码实现令牌桶限流算法](https://github.com/scriptquentinrjw/SoXMjl/commit/8ce8e52ca7c5fd4208f5120dffc83fe5adbcbb59)
 - [Gitee Pages 镜像站百度收录前期准备工作](https://github.com/scriptquentinrjw/SoXMjl/commit/8356619a948891f6fac7062e887ab5a3895bdd07)
+- [模拟日志场景开源源码 项目实例含多系统环境排错方案](https://github.com/scriptquentinrjw/SoXMjl/commit/325c0bf0cbfa52e7951644a11bef4d1992dfd6a6)
