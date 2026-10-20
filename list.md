@@ -157,3 +157,4 @@
 - [推理侧动态KV‑Cache分片，多实例共享缓存](https://github.com/scriptquentinrjw/SoXMjl/commit/cc7e696cc0edb927e287cb2f62b846ce9dd3ed54)
 - [浏览器内Wasm大模型，网页本地推理开销](https://github.com/scriptquentinrjw/SoXMjl/commit/083a61398119213fc0bc959b8b4fb9712a72025d)
 - [后端工具集合开源项目 完整源码附带简易压力测试参考样例](https://github.com/scriptquentinrjw/SoXMjl/commit/2722d4f248f9522b7e55a088cdaa3ffce867443e)
+- [Markdown文档批量转换html，自定义模板批量渲染网页](https://github.com/scriptquentinrjw/SoXMjl/commit/b5fb5f838104eeaaa7d502d636fb5a2898d10591)
