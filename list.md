@@ -91,3 +91,4 @@
 - [目录双快照差异json对比，读取两份目录快照输出结构化diff](https://github.com/scriptquentinrjw/SoXMjl/commit/a6ccfd9429a5ee8c991b91af76a072d8eeabbd23)
 - [Markdown 文档列表排版优化百度搜索引擎解析](https://github.com/scriptquentinrjw/SoXMjl/commit/ae11390b3f9dceda4258f2a1ad9863f28eab9faf)
 - [耕地不能用来建房，违规占用耕地会有什么后果](https://github.com/scriptquentinrjw/SoXMjl/commit/5788660363c602b4ccca26d5f7d35cfddf4cb1c9)
+- [docker 环境配置适配开源仓库 完整源码容器环境配置兼容](https://github.com/scriptquentinrjw/SoXMjl/commit/6584b3b5a8bfcc6da16a6a45db055e1563e5b66b)
