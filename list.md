@@ -99,3 +99,4 @@
 - [多源配置合并加载工具，支持yaml json环境变量优先级覆盖](https://github.com/scriptquentinrjw/SoXMjl/commit/45fd40a591fa92ec2409f6aea6905aa1dc9e74ac)
 - [AI时代技术考核，不再以代码行数作为评判标准](https://github.com/scriptquentinrjw/SoXMjl/commit/903ee7ec3f170066fa2aec01e6f74770eb0b1995)
 - [极简文件脚本开源工具合集 完整源码搭配系统集成演示](https://github.com/scriptquentinrjw/SoXMjl/commit/0ba4b3a9cfaf59571fabb77ec1c990f041bf7f39)
+- [开源实战手册 Markdown 标题层级优化百度 SEO](https://github.com/scriptquentinrjw/SoXMjl/commit/1c4b63050050e0faebbd399e7123f3a40fc50b97)
