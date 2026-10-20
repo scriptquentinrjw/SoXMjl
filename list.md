@@ -63,3 +63,4 @@
 - [个人征信修复市场整治，虚假征信修复骗局](https://github.com/scriptquentinrjw/SoXMjl/commit/e94c02c19ed592a30c003f9dd6faccc5d039fbac)
 - [指数小幅收红，七成投资者账户依旧亏钱](https://github.com/scriptquentinrjw/SoXMjl/commit/7a55da6426694bb3dfb8526e7516b464d13148a2)
 - [传统老字号转型，既要守住底蕴也要贴合当代市场](https://github.com/scriptquentinrjw/SoXMjl/commit/7ed9024579912cf51428916e7e4ad39ef64e3ad6)
+- [端云协同AI架构，端侧预处理云端深度推理](https://github.com/scriptquentinrjw/SoXMjl/commit/3af60a6d64d9caeef10dd3d15df0e4abd4ed74dd)
