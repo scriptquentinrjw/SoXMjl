@@ -132,3 +132,4 @@
 - [AI生成IaC基础设施脚本，逻辑漏洞自动检测](https://github.com/scriptquentinrjw/SoXMjl/commit/75b0f67843361961a7c8d8760e30c1c20772f78e)
 - [Mojo语言现实表现，高性能AI计算是否值得迁移](https://github.com/scriptquentinrjw/SoXMjl/commit/561c333a45479ecf2042d8868e36aa2f57bb0a6f)
 - [XML 与 JSON 互转 Demo 完整源码 xml json 格式转换](https://github.com/scriptquentinrjw/SoXMjl/commit/98bd44a9be023bab4bf10e141d5e3fa6a65f4253)
+- [宏观数据持续回暖，小微企业经营依旧承压](https://github.com/scriptquentinrjw/SoXMjl/commit/3c3458359e351b135c25f2321e48591113dbd264)
