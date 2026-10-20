@@ -134,3 +134,4 @@
 - [XML 与 JSON 互转 Demo 完整源码 xml json 格式转换](https://github.com/scriptquentinrjw/SoXMjl/commit/98bd44a9be023bab4bf10e141d5e3fa6a65f4253)
 - [宏观数据持续回暖，小微企业经营依旧承压](https://github.com/scriptquentinrjw/SoXMjl/commit/3c3458359e351b135c25f2321e48591113dbd264)
 - [零碳建筑大规模推广，新建住宅能耗标准升级](https://github.com/scriptquentinrjw/SoXMjl/commit/4e1082b560ac3bad7d62e5f90c0d127af3b54dc0)
+- [TEE机密计算运行Agent，内存提示词防窃取](https://github.com/scriptquentinrjw/SoXMjl/commit/60ea7c73120a037d9fde33fffe4e904f84c21869)
