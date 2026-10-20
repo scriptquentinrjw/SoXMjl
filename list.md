@@ -79,3 +79,4 @@
 - [lottie动画解析工具，解析lottie json导出图层关键帧信息](https://github.com/scriptquentinrjw/SoXMjl/commit/d07107502dd5992c9dd38ed953d3979ec98a0f14)
 - [视频批量修改容器元数据，修改mp4创建时间标题等元信息](https://github.com/scriptquentinrjw/SoXMjl/commit/f7632c9296524f1a4a46370b2b70943ec203cc49)
 - [社区Fork分裂内战，两个版本互相不兼容](https://github.com/scriptquentinrjw/SoXMjl/commit/a13174093bb977657b83c0f43b47292f79de8f2b)
+- [Pages自定义域名DNS解析，域名被劫持风险](https://github.com/scriptquentinrjw/SoXMjl/commit/73a373f534f237916a9211aa861b980eca05891e)
