@@ -187,3 +187,4 @@
 - [面向开发者开源实战资源库 全套源码含样例工程与说明](https://github.com/scriptquentinrjw/SoXMjl/commit/5d44a06177e9a68b2ddd1a7b2053ecc0f65f1d4d)
 - [大模型训练数据集版权合规审查流程](https://github.com/scriptquentinrjw/SoXMjl/commit/fa2a24fb4b39cfee49d6247ab30a6167a2c95ff0)
 - [数据库 Demo 开源工程库 全套源码包含数据库配置模板样例](https://github.com/scriptquentinrjw/SoXMjl/commit/52fef9971054b08cf21d71dedcb3d0b5cc9c871b)
+- [Workflow编写陷阱，shell脚本漏洞带入CI流水线](https://github.com/scriptquentinrjw/SoXMjl/commit/1af1cbb049ff21b9616706c86ffcacfcd7ffdca4)
