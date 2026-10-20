@@ -89,3 +89,4 @@
 - [全栈开源实践项目 可运行源码以及环境配置手册](https://github.com/scriptquentinrjw/SoXMjl/commit/0cd207ca51394686f6d87d60584d52dfc6adb80e)
 - [终身学习公共服务体系，成人免费学习资源供给](https://github.com/scriptquentinrjw/SoXMjl/commit/af50dad1d6a7b4870c52eb01c276c4d4b1cb647e)
 - [目录双快照差异json对比，读取两份目录快照输出结构化diff](https://github.com/scriptquentinrjw/SoXMjl/commit/a6ccfd9429a5ee8c991b91af76a072d8eeabbd23)
+- [Markdown 文档列表排版优化百度搜索引擎解析](https://github.com/scriptquentinrjw/SoXMjl/commit/ae11390b3f9dceda4258f2a1ad9863f28eab9faf)
