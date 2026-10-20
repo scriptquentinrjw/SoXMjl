@@ -51,3 +51,4 @@
 - [模拟日志场景开源源码 项目实例含多系统环境排错方案](https://github.com/scriptquentinrjw/SoXMjl/commit/325c0bf0cbfa52e7951644a11bef4d1992dfd6a6)
 - [简易通配符匹配工程 完整源码文件名文本通配检索](https://github.com/scriptquentinrjw/SoXMjl/commit/519505ca5fa923d1e31ce79aef7d95691e1273fd)
 - [绿色家电全面普及，家电报废回收体系完善](https://github.com/scriptquentinrjw/SoXMjl/commit/2e2523d3c84cf1bb2b27aad0cb0869f94c0571d2)
+- [中文方言语音识别工具，批量音频转写支持口语断句本地处理](https://github.com/scriptquentinrjw/SoXMjl/commit/8f646013323d3e70342b969cd02ccb9f1edcfae0)
