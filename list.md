@@ -104,3 +104,4 @@
 - [新式茶饮内卷行业盈利真实困境](https://github.com/scriptquentinrjw/SoXMjl/commit/092f114a243f028063298af6645d3b8125ff5388)
 - [二叉搜索树开源仓库 完整源码增删改查完整实现](https://github.com/scriptquentinrjw/SoXMjl/commit/cd26ef2863fae62a7446d74dce6f269bf0cbe4e0)
 - [正则表达式语法校验开源工程 完整源码校验正则表达式合法性](https://github.com/scriptquentinrjw/SoXMjl/commit/10be0a33053f7952328d2387b22ffd6544df69bd)
+- [csv批量检测csv分隔符自动识别，自动探测逗号分号制表符分隔符](https://github.com/scriptquentinrjw/SoXMjl/commit/8fa0c42126d79d440c4c1bedae0915dcb6675cf5)
