@@ -171,3 +171,4 @@
 - [随机负载均衡 Demo 完整源码随机选择服务实例](https://github.com/scriptquentinrjw/SoXMjl/commit/facfb0c845cf919e6f211c67cab003a1d3f8cc01)
 - [私募基金监管全面升级私募行业登记备案与合规要求提升](https://github.com/scriptquentinrjw/SoXMjl/commit/fcb43fad4f23e0f33d0945cfc7212288c9456a41)
 - [简约前端开源组件库 开源源码搭配页面快速接入示例](https://github.com/scriptquentinrjw/SoXMjl/commit/436c90e740b920e9cfd392ca467676ec8291858f)
+- [模型降级策略，大模型故障自动切小模型兜底](https://github.com/scriptquentinrjw/SoXMjl/commit/a054e89c061c74e6f21463cc882f095bcfbeb43f)
