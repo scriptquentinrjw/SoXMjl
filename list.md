@@ -164,3 +164,4 @@
 - [GitHub仓库Issue自动分配责任人模拟工具](https://github.com/scriptquentinrjw/SoXMjl/commit/03a12af568d6fc4190da7a8d16cfe3acbb12cf72)
 - [程序员开源实战资源 源码开放包含快速接入样例](https://github.com/scriptquentinrjw/SoXMjl/commit/08eeb105299856d550e55d11b3704d4818e29018)
 - [居民储蓄搬家持续上演存款持续向权益类资产转移](https://github.com/scriptquentinrjw/SoXMjl/commit/28a1cb3457f997419fdd7a9f903b7389f366fa82)
+- [本地优先协作软件，多端Agent记忆CRDT冲突](https://github.com/scriptquentinrjw/SoXMjl/commit/d7793636bfdffbdf66279a3b9f85fe6237d4e913)
