@@ -41,3 +41,4 @@
 - [托育机构普惠化推进普通家庭育儿成本能否下降](https://github.com/scriptquentinrjw/SoXMjl/commit/0f9ad1948f374dd47fef72cb322001c51827320d)
 - [低代码练习开源项目 完整源码附带业务适配改造教程](https://github.com/scriptquentinrjw/SoXMjl/commit/a5c1dafd499197d58a57134f953e2e699cf1cbd5)
 - [文件夹目录对比工具，对比两份目录输出新增修改删除清单](https://github.com/scriptquentinrjw/SoXMjl/commit/c1334f4180f48900148e458b285d670a065f7fc7)
+- [平台用工制度改革外卖骑手权益有哪些变化](https://github.com/scriptquentinrjw/SoXMjl/commit/298022606a40a674223b29dd74b885ab717901a5)
