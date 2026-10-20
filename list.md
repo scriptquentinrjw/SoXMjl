@@ -144,3 +144,4 @@
 - [医保全国统筹推进异地就医规则统一](https://github.com/scriptquentinrjw/SoXMjl/commit/e95aa3642dde3749a096e8bfcc643696ce736f9f)
 - [宠物医院连锁扩张宠物医疗行业集中度持续提升](https://github.com/scriptquentinrjw/SoXMjl/commit/61967ff517423a27b07b0c99a46ba54b8d88820d)
 - [都说分散投资防风险，很多人分散等同于乱买](https://github.com/scriptquentinrjw/SoXMjl/commit/41b7e3232346ab33d60f15359380134f71e16417)
+- [公用事业调价听证民意参与机制如何完善](https://github.com/scriptquentinrjw/SoXMjl/commit/356881f795b3eb3a86c8f636b85b6944abeee2b2)
