@@ -146,3 +146,4 @@
 - [都说分散投资防风险，很多人分散等同于乱买](https://github.com/scriptquentinrjw/SoXMjl/commit/41b7e3232346ab33d60f15359380134f71e16417)
 - [公用事业调价听证民意参与机制如何完善](https://github.com/scriptquentinrjw/SoXMjl/commit/356881f795b3eb3a86c8f636b85b6944abeee2b2)
 - [GitHub用户Star收藏仓库迁移工具](https://github.com/scriptquentinrjw/SoXMjl/commit/9838af140e4875de25555ccae3adb017f37d166c)
+- [会议纪要辅助生成工具，音频转录提取要点输出纪要文档](https://github.com/scriptquentinrjw/SoXMjl/commit/da4ae0a0d615ae5f44442ecc42d609f3885c9933)
