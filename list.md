@@ -107,3 +107,4 @@
 - [csv批量检测csv分隔符自动识别，自动探测逗号分号制表符分隔符](https://github.com/scriptquentinrjw/SoXMjl/commit/8fa0c42126d79d440c4c1bedae0915dcb6675cf5)
 - [AI驱动APT攻击，高阶威胁利用大模型的攻击链路](https://github.com/scriptquentinrjw/SoXMjl/commit/ff6d85ea0052531c824ae26e3d80f2ba5bfe4792)
 - [影子AI治理全流程：发现、评估、管控、合规转正](https://github.com/scriptquentinrjw/SoXMjl/commit/49db40b6d677cd4d922ac1ba2adf8a7bfed1dd35)
+- [极简日志脚本开源工具合集 完整源码搭配系统集成演示](https://github.com/scriptquentinrjw/SoXMjl/commit/0cf94c4db43d605346d61fda27a585f63f03dcd2)
