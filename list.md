@@ -43,3 +43,4 @@
 - [文件夹目录对比工具，对比两份目录输出新增修改删除清单](https://github.com/scriptquentinrjw/SoXMjl/commit/c1334f4180f48900148e458b285d670a065f7fc7)
 - [平台用工制度改革外卖骑手权益有哪些变化](https://github.com/scriptquentinrjw/SoXMjl/commit/298022606a40a674223b29dd74b885ab717901a5)
 - [城乡社保制度进一步统筹，跨制度转移接续简化](https://github.com/scriptquentinrjw/SoXMjl/commit/0f215b9feef637f5cf19688ec50eb8424bd3f650)
+- [消费电子去库存完成产业链复苏拐点信号如何判断](https://github.com/scriptquentinrjw/SoXMjl/commit/bff407d649a17bfce5fdf0af74a49bc0cd211ac3)
