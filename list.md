@@ -30,3 +30,4 @@
 - [后端辅助工具开源分享 源码开放支持自定义功能扩展](https://github.com/scriptquentinrjw/SoXMjl/commit/41ff68808c68180a6766327dd8b68a1b3a26faf2)
 - [开源效率工具项目 完整实现以及部署排错指南](https://github.com/scriptquentinrjw/SoXMjl/commit/69c4c7f5f15e68fbc55e0d8701576a15b5cf90af)
 - [开源项目不提供二进制，强制用户本地编译](https://github.com/scriptquentinrjw/SoXMjl/commit/507b9e8cbd64bf7ec2818a8120f2dd9f2d2c6798)
+- [瓶装饮料新品内卷饮料企业比拼健康化产品创新](https://github.com/scriptquentinrjw/SoXMjl/commit/991b8e63a1508ded6c768e622da8a5d8da225a27)
