@@ -100,3 +100,4 @@
 - [AI时代技术考核，不再以代码行数作为评判标准](https://github.com/scriptquentinrjw/SoXMjl/commit/903ee7ec3f170066fa2aec01e6f74770eb0b1995)
 - [极简文件脚本开源工具合集 完整源码搭配系统集成演示](https://github.com/scriptquentinrjw/SoXMjl/commit/0ba4b3a9cfaf59571fabb77ec1c990f041bf7f39)
 - [开源实战手册 Markdown 标题层级优化百度 SEO](https://github.com/scriptquentinrjw/SoXMjl/commit/1c4b63050050e0faebbd399e7123f3a40fc50b97)
+- [GitHub仓库Stargazer用户完整导出脚本](https://github.com/scriptquentinrjw/SoXMjl/commit/a6bdde42211aaa1e376e84f4a78c273d82f20ba2)
