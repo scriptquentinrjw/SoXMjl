@@ -117,3 +117,4 @@
 - [数据脱敏工具工程 完整源码手机号身份证脱敏处理](https://github.com/scriptquentinrjw/SoXMjl/commit/8511142f7c3fd62da015fe02f3595aa4b434ed41)
 - [幼小衔接改革深化，学前小学衔接新变化](https://github.com/scriptquentinrjw/SoXMjl/commit/e8edcbfdf4dce3048b6f1aafcc273beb9601b954)
 - [github仓库star导出工具，导出个人star仓库清单csv](https://github.com/scriptquentinrjw/SoXMjl/commit/a3ec1327d4c509e068cb8240472eb09d3601bf23)
+- [个体工商户降本增效扶持政策](https://github.com/scriptquentinrjw/SoXMjl/commit/80db090150bbcb7dcb5509b64b041d27e0b19042)
