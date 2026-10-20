@@ -47,3 +47,4 @@
 - [服务器系统信息采集 Demo 完整源码读取操作系统硬件参数](https://github.com/scriptquentinrjw/SoXMjl/commit/3539f1612e47a912f919985f7f782c8f6b07c8e4)
 - [PR触发Workflow，fork提交泄露测试数据风险](https://github.com/scriptquentinrjw/SoXMjl/commit/c81fa950d619f37c971146793fe222a97c014c59)
 - [令牌桶限流练手开源工程 完整源码实现令牌桶限流算法](https://github.com/scriptquentinrjw/SoXMjl/commit/8ce8e52ca7c5fd4208f5120dffc83fe5adbcbb59)
+- [Gitee Pages 镜像站百度收录前期准备工作](https://github.com/scriptquentinrjw/SoXMjl/commit/8356619a948891f6fac7062e887ab5a3895bdd07)
