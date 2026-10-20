@@ -120,3 +120,4 @@
 - [个体工商户降本增效扶持政策](https://github.com/scriptquentinrjw/SoXMjl/commit/80db090150bbcb7dcb5509b64b041d27e0b19042)
 - [明明买的稳健理财，账户依旧出现亏损](https://github.com/scriptquentinrjw/SoXMjl/commit/5c9c685b09b027b1f296da9048fa30ae2a909326)
 - [开源 README 文档写清楚项目的安装前置依赖](https://github.com/scriptquentinrjw/SoXMjl/commit/7ef733c9c457bae4d1812926f4936c694b276614)
+- [甲醇燃料船舶订单快速增长，绿色航运赛道迎来发展机遇](https://github.com/scriptquentinrjw/SoXMjl/commit/8623f9b22675cd291aeb75276f0c5ff98cd42256)
