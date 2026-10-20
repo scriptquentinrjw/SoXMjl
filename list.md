@@ -28,3 +28,4 @@
 - [城域算力1ms时延圈建设，算网协同调度落地](https://github.com/scriptquentinrjw/SoXMjl/commit/9ef1fb886a760280229377e8474bfc012f8d8db8)
 - [乡村非遗商业化开发保护盈利如何平衡](https://github.com/scriptquentinrjw/SoXMjl/commit/8fd5ce8988b7f48908e7b1bc115ff3f6cc2b91f3)
 - [后端辅助工具开源分享 源码开放支持自定义功能扩展](https://github.com/scriptquentinrjw/SoXMjl/commit/41ff68808c68180a6766327dd8b68a1b3a26faf2)
+- [开源效率工具项目 完整实现以及部署排错指南](https://github.com/scriptquentinrjw/SoXMjl/commit/69c4c7f5f15e68fbc55e0d8701576a15b5cf90af)
