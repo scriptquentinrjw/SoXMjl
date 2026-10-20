@@ -174,3 +174,4 @@
 - [模型降级策略，大模型故障自动切小模型兜底](https://github.com/scriptquentinrjw/SoXMjl/commit/a054e89c061c74e6f21463cc882f095bcfbeb43f)
 - [数据标注自动化，AI辅助标注质量管控手段](https://github.com/scriptquentinrjw/SoXMjl/commit/89c0086a8dd4ed29bc46dd99604bc674b0edda0c)
 - [商用车行业复苏信号重卡销量回升产业链景气回暖](https://github.com/scriptquentinrjw/SoXMjl/commit/e04e2557cab518504a385dd18713258616cdfb4f)
+- [外贸开拓新兴市场，需要适应当地市场规则](https://github.com/scriptquentinrjw/SoXMjl/commit/f8c059f2738a2488d93293713b7cd22381ed790f)
