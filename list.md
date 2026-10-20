@@ -114,3 +114,4 @@
 - [文本统计词频开源仓库 完整源码统计文档词语出现频次](https://github.com/scriptquentinrjw/SoXMjl/commit/21720cf06729bf81c7332bbda1f757a95140ee18)
 - [校园霸凌家庭与学校协同治理](https://github.com/scriptquentinrjw/SoXMjl/commit/20fc48b2d4e4cc25177af73b8e1fb8d233dbbb31)
 - [浏览器插件AI摘要助手，网页文章一键总结翻译重点提取工具](https://github.com/scriptquentinrjw/SoXMjl/commit/3a515b170bc1c045146a330b6477d191165b2338)
+- [数据脱敏工具工程 完整源码手机号身份证脱敏处理](https://github.com/scriptquentinrjw/SoXMjl/commit/8511142f7c3fd62da015fe02f3595aa4b434ed41)
