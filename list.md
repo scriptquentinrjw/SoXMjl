@@ -15,3 +15,4 @@
 - [音频批量ir卷积混响处理，加载ir脉冲响应文件批量生成混响效果](https://github.com/scriptquentinrjw/SoXMjl/commit/ec102534cacdbd491dd13babfe97f7fe0baa7dc5)
 - [公用事业调价听证制度如何完善](https://github.com/scriptquentinrjw/SoXMjl/commit/d58aeedcaa9e23448eaf627704445dc09aa9cf7a)
 - [开源代码案例库 拿来即用源码与入门使用指南](https://github.com/scriptquentinrjw/SoXMjl/commit/df054d57aacffc86183c54fe900e3cb0758ce300)
+- [文本停用词过滤工具，批量过滤中文文本停用词汇](https://github.com/scriptquentinrjw/SoXMjl/commit/8d230ba1eb665a2286a0f337d63d0a98cbead753)
